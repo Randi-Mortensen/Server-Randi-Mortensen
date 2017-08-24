@@ -1,0 +1,19 @@
+{
+  "name": "server-randi-mortensen",
+  "version": "1.0.0",
+  "description": "Test af server",
+  "main": "server-1.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randi-Mortensen/Server-Randi-Mortensen.git"
+  },
+  "author": "randi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Randi-Mortensen/Server-Randi-Mortensen/issues"
+  },
+  "homepage": "https://github.com/Randi-Mortensen/Server-Randi-Mortensen#readme"
+}
