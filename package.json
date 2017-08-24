@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Randi-Mortensen/Server-Randi-Mortensen/issues"
   },
-  "homepage": "https://github.com/Randi-Mortensen/Server-Randi-Mortensen#readme"
+  "homepage": "https://github.com/Randi-Mortensen/Server-Randi-Mortensen#readme",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
